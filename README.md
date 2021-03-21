@@ -1,2 +1,3 @@
-# Sp2021-EECE-2323
-Lab for EEC2322
+# Introduction
+Course Name: Lab for EECE2322
+Instructor: Prof. Kimani
